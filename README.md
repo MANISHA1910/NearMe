@@ -25,6 +25,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+~~~
+map.html
 <html>
 <head>
 <title>My city</title>
@@ -34,7 +36,7 @@ Execute the programs and publish them.
 <font color="red"><b>Virudhachalam</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>manisha.m (24900673)</b></font>
+<font color="blue"><b>MANISHA.M (24900673)</b></font>
 </h3>
 <center>
     -<img src="map.png.png" usemap="#image-map">
@@ -162,6 +164,7 @@ thiru.html
     </ul>
 </body>
 </html>
+~~~
 
 
 
